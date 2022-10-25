@@ -11,6 +11,7 @@ The model _must_ be trained exclusively on train_data, test_data is only used fo
 
 You can assume that test_data.csv is clean, train_data, however, is not. You should clean the data before training the model.
 
+Hyperparameter optimalization is nice, and will give you a better model, but data cleaning is always the most important part of a machine learning project.
 
 ## Feature explanation
 
@@ -25,3 +26,4 @@ You can assume that test_data.csv is clean, train_data, however, is not. You sho
 - Cabin: Cabin number (-1 means no data on cabin)
 - Embarked: Port of Embarkation
 - Age: Age in years
+
