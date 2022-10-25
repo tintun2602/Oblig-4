@@ -5,6 +5,7 @@
 1. Create a model that predicts a the age of a passenger on the titanic based on the other features in the dataset. 
 2. Validate the model on test_data. The model _must_ have a RMSE (root mean squared error) of less than 15 on test_data. 
 
+## Disclaimers
 
 The model _must_ be trained exclusively on train_data, test_data is only used for validation, and is not allowed to be used for model the model creation.
 
