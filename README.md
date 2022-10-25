@@ -7,7 +7,7 @@
 
 ## Disclaimers
 
-The model _must_ be trained exclusively on train_data, test_data is only used for validation, and is not allowed to be used for model the model creation.
+The model _must_ be trained exclusively on train_data.csv. test_data.csv should _only_ used for validation, and you are not allowed to use test_data.csv for the model creation.
 
 You can assume that test_data.csv is clean, train_data, however, is not. You should clean the data before training the model.
 
