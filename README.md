@@ -15,6 +15,7 @@ Hyperparameter optimalization is nice, and will give you a better model, but dat
 
 ## Feature explanation
 
+### X
 - PassengerId: Unique id for each passenger
 - Survived: 0 = No, 1 = Yes
 - Pclass: Ticket class
@@ -25,5 +26,7 @@ Hyperparameter optimalization is nice, and will give you a better model, but dat
 - Fare: Passenger fare
 - Cabin: Cabin number (-1 means no data on cabin)
 - Embarked: Port of Embarkation
+
+### Y
 - Age: Age in years
 
