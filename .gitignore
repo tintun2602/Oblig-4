@@ -1,0 +1,5 @@
+src/solution.ipynb
+data/train.csv
+data/test.csv
+src/.ipynb_checkpoints
+.DS_Store
